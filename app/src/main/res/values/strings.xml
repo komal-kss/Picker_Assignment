@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">insta</string>
+    <string name="add_comments">Add comments...</string>
+    <string name="post">Post</string>
+    <string name="choose_images">Add Attachment</string>
+    <string name="open_camera">Camera</string>
+    <string name="image">Choose Image</string>
+    <string name="video">Choose Video</string>
+    <string name="cancel">Cancel</string>
 </resources>
