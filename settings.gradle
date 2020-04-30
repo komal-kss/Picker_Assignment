@@ -1,2 +1,2 @@
 rootProject.name='insta'
-include ':app'
+include ':app',":easyfilepicker"
